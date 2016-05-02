@@ -11,6 +11,11 @@
 			<h3>Resume Page: My work experience and extra accomplishments</h3>
 			<h3>Personal Page: My interests and hobbies</h3>
 			<h3>Goal Page: My goals as a web developer</h3>
+			<h1>Content Strategy</h1>
+			<h2>Resume Page</h2>
+			<ul>
+				<li></li>
+			</ul>
 		</main>
 	</body>
 </html>
