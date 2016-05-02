@@ -14,7 +14,19 @@
 			<h1>Content Strategy</h1>
 			<h2>Resume Page</h2>
 			<ul>
-				<li></li>
+				<li>Contact info</li>
+				<li>Objective</li>
+				<li>Work Experience</li>
+				<li>Education</li>
+				<li>Work position related skills</li>
+				<li>References</li>
+				<li>Accomplishments</li>
+			</ul>
+			<h2>Personal Page</h2>
+			<ul>
+				<li>Personal Pictures</li>
+				<li>Hobbies</li>
+				<li>Long term career goals</li>
 			</ul>
 		</main>
 	</body>
