@@ -28,6 +28,10 @@
 				<li>Hobbies</li>
 				<li>Long term career goals</li>
 			</ul>
+			<h2>Interaction Flow</h2>
+			<img src="images/interaction-flow.svg" width="100%"/>
+			<h2>Wireframe</h2>
+			<img src="images/wire-frame-model.svg" width="100%"/>
 		</main>
 	</body>
 </html>
