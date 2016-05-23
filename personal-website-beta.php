@@ -7,5 +7,15 @@
 
 		<title>Moparvinson.com home site</title>
 	</head>
+	<body>
+		<div class="container">
+			<header>
+				<h1>Jordan Vinson</h1>
+			</header>
+			<main>
+				<img class=""
+			</main>
+		</div>
+	</body>
 </html>
 
